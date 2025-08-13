@@ -21,7 +21,7 @@ Currently, I’m conducting research at the intersection of **AI, Blockchain, an
 ---
 
 ## 📌 Featured Projects
-### [2048 Game Enhancement Project](https://github.com/ethanlim05/2048-Game-Refactor)
+### [2048 Game Enhancement Project [(https://github.com/ethanlim05/CW).]
 - Refactored poorly structured code for better maintainability
 - Added **Main Menu**, **Account System**, **Leaderboard**
 - Implemented score tracking and fullscreen mode
