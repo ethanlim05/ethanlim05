@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Ethan Lim Gzi Yaoo 👋
 
-<!--
-**ethanlim05/ethanlim05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Final Year Computer Science Undergraduate** at the University of Nottingham Malaysia (Graduating June 2026)  
+🔐 Aspiring **Cybersecurity Analyst** & **IT Consultant**  
+⚙️ Passionate about **AI**, **Blockchain**, and **IIoT** research
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I’m a self-driven and curious learner who thrives on solving complex problems through technology.  
+Currently, I’m conducting research at the intersection of **AI, Blockchain, and IIoT** under Dr. Kweh Yeah Lun, aiming to publish a comprehensive review paper.  
+
+---
+
+## 🛠 Skills & Tools
+**Programming Languages:** Python, C, Java, HTML, CSS  
+**Tools & Software:** Microsoft Power BI, Microsoft Excel, Canva, Word  
+**Soft Skills:** Presentation, Critical Thinking, Leadership, Management, Creativity, Negotiation  
+**Languages:** English, Mandarin, Malay
+
+---
+
+## 📌 Featured Projects
+### [2048 Game Enhancement Project](https://github.com/ethanlim05/2048-Game-Refactor)
+- Refactored poorly structured code for better maintainability
+- Added **Main Menu**, **Account System**, **Leaderboard**
+- Implemented score tracking and fullscreen mode
+
+---
+
+## 📚 Professional Experience
+**Research Intern – University of Nottingham Malaysia**  
+- Conducting research on AI, Blockchain, and IIoT  
+- Reviewing and presenting academic papers  
+- Working toward a comprehensive review paper publication
+
+---
+
+## 📫 Let’s Connect!
+📍 Kuala Lumpur, Malaysia  
+📧 **ethanlgy2004@gmail.com**  
+📞 **+60 14-916-4268**  
+💼 [LinkedIn](#) *(Add link here)*  
+💻 [GitHub](https://github.com/ethanlim05)
+
+---
+⭐ *Feel free to explore my repositories and connect if you’d like to collaborate or share ideas!*
