@@ -13,7 +13,7 @@ Currently, I’m conducting research at the intersection of **AI, Blockchain, an
 ---
 
 ## 🛠 Skills & Tools
-**Programming Languages:** Python, C, Java, HTML, CSS  
+**Programming Languages:** Python, C, Java, HTML, CSS, SQL  
 **Tools & Software:** Microsoft Power BI, Microsoft Excel, Canva, Word  
 **Soft Skills:** Presentation, Critical Thinking, Leadership, Management, Creativity, Negotiation  
 **Languages:** English, Mandarin, Malay
