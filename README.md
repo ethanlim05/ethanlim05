@@ -28,7 +28,7 @@ Currently, I’m conducting research at the intersection of **AI, Blockchain, an
 
 ---
 
-### Hackathon Project – Smart Vehicle Data Validation & Error Detection
+### Hackathon Project – Smart Vehicle Data Validation & Error Detection [(https://github.com/ethanlim05/hackathon-project).]
 Refactored poorly structured game code to improve maintainability.
 Designed and implemented a main menu (Play, Account, Leaderboard, Quit).
 Added user account system with unique usernames.
