@@ -1,4 +1,4 @@
-# Hi, I'm Ethan Lim Gzi Yaoo 👋
+v# Hi, I'm Ethan Lim Gzi Yaoo 👋
 
 🎓 **Final Year Computer Science Undergraduate** at the University of Nottingham Malaysia (Graduating June 2026)  
 🔐 Aspiring **Cybersecurity Analyst** & **IT Consultant**  
@@ -29,11 +29,12 @@ Currently, I’m conducting research at the intersection of **AI, Blockchain, an
 ---
 
 ### Hackathon Project – Smart Vehicle Data Validation & Error Detection [(https://github.com/ethanlim05/hackathon-project).]
-Refactored poorly structured game code to improve maintainability.
-Designed and implemented a main menu (Play, Account, Leaderboard, Quit).
-Added user account system with unique usernames.
-Implemented score tracking and a top 10 leaderboard.
-Enhanced user experience with fullscreen mode and intuitive navigation.
+- Built the backend system to validate and correct vehicle data for online insurance applications.
+- Implemented data integrity checks, fuzzy matching, and rule-based validation to detect errors or potential fraud in real time.
+- Designed a modular backend architecture with Python (pandas, rapidfuzz) for scalability and secure data handling.
+- Strengthened skills in backend development, input validation, and fraud prevention relevant to cybersecurity.
+
+- Tech Stack: Python, Pandas, RapidFuzz, CSV datasets
 
 ---
 
