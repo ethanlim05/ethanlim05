@@ -28,6 +28,15 @@ Currently, I’m conducting research at the intersection of **AI, Blockchain, an
 
 ---
 
+### Hackathon Project – Smart Vehicle Data Validation & Error Detection
+Refactored poorly structured game code to improve maintainability.
+Designed and implemented a main menu (Play, Account, Leaderboard, Quit).
+Added user account system with unique usernames.
+Implemented score tracking and a top 10 leaderboard.
+Enhanced user experience with fullscreen mode and intuitive navigation.
+
+---
+
 ## 📚 Professional Experience
 **Research Intern – University of Nottingham Malaysia**  
 - Conducting research on AI, Blockchain, and IIoT  
