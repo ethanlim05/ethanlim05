@@ -50,7 +50,7 @@ Currently, I’m conducting research at the intersection of **AI, Blockchain, an
 📍 Kuala Lumpur, Malaysia  
 📧 **ethanlgy2004@gmail.com**  
 📞 **+60 14-916-4268**  
-💼 [LinkedIn](#) (https://www.linkedin.com/in/ethan-lim-92114426a/)  
+💼 [LinkedIn](https://www.linkedin.com/in/ethan-lim-92114426a/)  
 💻 [GitHub](https://github.com/ethanlim05)
 
 ---
