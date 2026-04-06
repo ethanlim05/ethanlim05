@@ -1,7 +1,7 @@
 # Hi, I'm Ethan Lim Gzi Yaoo 👋
 
 🎓 **Final Year Computer Science Undergraduate** at the University of Nottingham Malaysia (Graduating June 2026)  
-🔐 Aspiring **Cybersecurity Analyst** & **IT Consultant**  
+🔐 Aspiring **Data Analyst** & **Tech Consultant**  
 ⚙️ Passionate about **AI**, **Blockchain**, and **IIoT** research
 
 ---
